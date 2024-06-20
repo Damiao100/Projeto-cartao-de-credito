@@ -16,6 +16,6 @@ Aplicação para registrar compras em um cartão de crédito.
   7. Caso ele deseje continuar, repetir os passos de 3 a 6, caso não, imprimir na tela o saldo final do cartão e a lista de compras realizadas, ordenadas pelo valor.
 
 ## Observações:
--  classe Scanner para fazer a leitura das informações do usuário;
+-  Classe Scanner para fazer a leitura das informações do usuário;
 - Construtores nas classes para passar as informações ao instanciar um objeto.
 
